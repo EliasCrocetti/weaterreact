@@ -1,0 +1,17 @@
+{
+    "weather": {
+        "g-weather": "Weather"
+    },
+
+    "getWeather": {
+        "getWeather": "Get Weather"
+    },
+
+    "weatherToday": {
+        "todayis": "Today we will have: "
+    },
+
+    "textLighRain" : {
+        "lightrain": "Light rain"
+    }
+}

@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+body {
+  background-color: #282c34;
+  color: white;
+}
+
+.ajustarInput{
+  margin-right: 10px;
+  height: 41px;
+  border-radius: 15px;
+  min-width: 60%;
+  background-color: #c9cdd4;
+  color: rgb(0, 0, 0);
+}

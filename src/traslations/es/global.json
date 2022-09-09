@@ -1,0 +1,17 @@
+{
+    "weather": {
+        "g-weather": "Clima"
+    },
+    
+    "getWeather": {
+        "getWeather": "Obtener Clima"
+    },
+
+    "weatherToday": {
+        "todayis": "Hoy tendremos: "
+    },
+
+    "textLighRain" : {
+        "lightrain": "Lluvia ligera"
+    }
+}
